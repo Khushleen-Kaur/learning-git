@@ -338,3 +338,10 @@ git commit -m "Meaningful message"
 git push
 ```
 Repeat this workflow every time you make changes.
+
+---
+
+## ✨ Credits
+
+Created by **ChatGPT (OpenAI)**
+Assisted by **Khushleen Kaur**
