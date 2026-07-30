@@ -3,6 +3,7 @@
 A quick reference for the most commonly used Git commands.
 
 ---
+![Git Workflow](git-workflow.png)
 
 ## 🆕 1. Initialize Git Repository
 
@@ -336,5 +337,4 @@ git commit -m "Meaningful message"
    ↓
 git push
 ```
-
 Repeat this workflow every time you make changes.
